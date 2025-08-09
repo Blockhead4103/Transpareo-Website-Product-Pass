@@ -228,8 +228,8 @@ const App = () => {
               </div>
             </div>
           </div>
-          <div className="text-center pt-6 border-t border-gray-700">
-            <p className="text-sm">© {new Date().getFullYear()} Transpareo ag. Alle Rechte vorbehalten.</p>
+          <div class="text-center pt-6 border-t border-gray-700">
+            <p class="text-sm">© {new Date().getFullYear()} Transpareo ag. Alle Rechte vorbehalten.</p>
           </div>
         </div>
       </footer>
